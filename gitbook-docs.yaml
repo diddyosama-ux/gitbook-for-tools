@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Tool Setup
+  structure:
+    - type: space
+      key: space-1
+      title: Dabz Park Guide
+      path: dabz-park-guide
+      default: true
+      content:
+        directory: ./dabz-park-guide
