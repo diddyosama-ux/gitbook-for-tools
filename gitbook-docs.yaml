@@ -23,3 +23,10 @@ site:
           draft: true
           content:
             directory: ./home/landing-page
+        - type: space
+          key: space-2
+          title: Changelog
+          path: changelog
+          draft: true
+          content:
+            directory: ./home/changelog
