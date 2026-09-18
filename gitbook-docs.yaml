@@ -30,3 +30,10 @@ site:
           draft: true
           content:
             directory: ./home/help-center
+        - type: space
+          key: space-4
+          title: Product Docs
+          path: product-docs
+          draft: true
+          content:
+            directory: ./home/product-docs
