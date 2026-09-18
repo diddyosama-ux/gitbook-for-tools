@@ -17,13 +17,6 @@ site:
           content:
             directory: ./home
         - type: space
-          key: space-6
-          title: Landing Page
-          path: landing-page
-          draft: true
-          content:
-            directory: ./home/landing-page
-        - type: space
           key: space-2
           title: Changelog
           path: changelog
