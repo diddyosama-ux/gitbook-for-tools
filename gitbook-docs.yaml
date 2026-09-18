@@ -17,13 +17,6 @@ site:
           content:
             directory: ./home
         - type: space
-          key: space-2
-          title: Product Setup
-          path: setup
-          draft: true
-          content:
-            directory: ./home/changelog
-        - type: space
           key: space-3
           title: Help Center
           path: help-center
