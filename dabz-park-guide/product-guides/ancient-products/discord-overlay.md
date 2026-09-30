@@ -28,17 +28,17 @@ layout:
 
 {% stepper %}
 {% step %}
-### Open Discord Settings.
+### <mark style="color:blue;">Open Discord Settings.</mark>
 
 Scroll to the bottom and go to “Game Overlay”.
 
-<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Make sure all 3 overlays below are ENABLED
+### <mark style="color:blue;">Make sure all 3 overlays below are ENABLED</mark>
 
-Enable Overlay For Your Game, Enable Legacy Overlay).
+Enable Overlay For Your Game, Enable Disable Overlay).
 
 <figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

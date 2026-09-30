@@ -1,7 +1,4 @@
 ---
-description: >-
-  C2UNLOCKS DOESNT OWN THIS GITBOOK, PLEASE BUY YOUR PRODUCTS FROM A BETTER
-  SELLER THAT ACTUALLY GIVES SUPPORT
 icon: triangle-exclamation
 layout:
   width: default
@@ -27,89 +24,67 @@ layout:
 
 # Anti Virus Setup
 
-{% embed url="https://dabzpark.com" %}
+Before you begin, you may be wondering why the tool requires certain Windows security settings to be changed. Some tools use drivers that Windows does not allow to run by default, which can cause errors or prevent the tool from working properly.
 
-Before we begin, you might be wondering why it’s necessary to disable so many security features just to run this tool. The reason is simple: when dealing with games that use kernel-level anti-cheat systems, a kernel-level driver is required to bypass these protections effectively. However, because we aren’t using an officially signed Windows driver, the operating system won’t allow it to load by default. Disabling these security features removes those restrictions, ensuring the driver can be loaded and function properly. Without doing this, you’ll likely encounter errors or be unable to load the driver at all.
-
-<br>
-
-MAKE SURE YOU DISABLE WINDOWS UPDATES TO PREVENT FORCED 24H2 OPTIONAL UPDATES BEING INSTALLED!
-
-<br>
-
-### **Anti-Virus Setup**
+#### <mark style="color:blue;">**Anti-Virus Setup**</mark>
 
 {% stepper %}
 {% step %}
-### Make Sure Your Turn Off All Virus & Threat Protection
-
-
+### <mark style="color:blue;">Make Sure Your Turn Off All Virus & Threat Protection</mark>
 {% endstep %}
 
 {% step %}
-### Download Windows Disabler
+### <mark style="color:blue;">Download Windows Disabler</mark>
 
 Download [Sordum Defender Control](https://www.sordum.org/files/downloads.php?st-defender-control=)
 {% endstep %}
 
 {% step %}
-### Download File Extracter
+### <mark style="color:blue;">Download File Extracter</mark>
 
 Download [Winrar](https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe)
 {% endstep %}
 
 {% step %}
-### Open Defender Control using Winrar.
+### <mark style="color:blue;">Open Defender Control using Winrar.</mark>
 
 Use the Password 'sordum' To Extract.
 {% endstep %}
 
 {% step %}
-### Run The Program & Disable Antivirus
-
-
+### <mark style="color:blue;">Run The Program & Disable Antivirus</mark>
 {% endstep %}
 
 {% step %}
 ### Now turn all 3 options in your Firewall off.
 
 <figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
-
-
 {% endstep %}
 
 {% step %}
-### Now Head To "App & Browser Control"
+### <mark style="color:blue;">Now Head To "App & Browser Control"</mark>
 
 Scroll Down To "Exploit Protection" & click "Exploit Protection Settings"
 
 <figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
-
-
 {% endstep %}
 
 {% step %}
-### Turn These All Off ONE BY ONE
+### <mark style="color:blue;">Turn These All Off ONE BY ONE</mark>
 
 <figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### In "DEVICE SECURITY" Make Sure "Core Isolation" Is All Off.
+### <mark style="color:blue;">In "DEVICE SECURITY" Make Sure "Core Isolation" Is All Off.</mark>
 
 <figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
-
-
-
-
-
-
 <br>
 
-### **CPU Virtualization Setup**
+### <mark style="color:blue;">**CPU Virtualization Setup**</mark>
 
 {% stepper %}
 {% step %}
@@ -125,8 +100,6 @@ once again if its Disabled you will need to go into your BIOS and enable it. If 
 {% endstep %}
 {% endstepper %}
 
-
-
 <br>
 
 ### **Faceit / Riot Clients**
@@ -140,8 +113,6 @@ once again if its Disabled you will need to go into your BIOS and enable it. If 
 
 {% step %}
 ### Make Sure There Is None Of The Following Are Enabled:
-
-
 
 * RIOT CLIENT
 * VANGUARD

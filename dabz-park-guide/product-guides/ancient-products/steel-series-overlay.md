@@ -12,7 +12,7 @@ SteelSeries Sonar Download: [https://steelseries.com/gg/downloads/gg/latest/wind
 
 Click on the Sonar tab as seen below, for first time users you will need to setup your inputs/outputs. You can continue to the next step once you see the screen below & Sonar is enabled.
 
-<figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -56,11 +56,11 @@ Click Master, then set “Master - Volume Up” to a key such as F12 as seen bel
 {% endstep %}
 
 {% step %}
-Now go to the Overlays tab under Sonar.&#x20;
+Now go to the Overlays tab under Sonar.
 
 Ensure the top option is enabled and the bottom option is disabled as seen below.
 
-<figure><img src="../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -69,4 +69,3 @@ Ensure the top option is enabled and the bottom option is disabled as seen below
 That’s it, your SteelSeries Sonar Overlay is now setup for your cheat! Now just follow the guide for the specific cheat you are using and you will see when you need to press your Sonar Shortcut key.
 {% endstep %}
 {% endstepper %}
-

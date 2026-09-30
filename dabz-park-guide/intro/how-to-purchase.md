@@ -1,53 +1,55 @@
 ---
-description: >-
-  Official DabzPark store. Follow the steps below to safely and securely
-  complete your purchase.
+description: Purchase DabzPark products safely through our official store.
 icon: cart-shopping
 ---
 
-# How to Purchase
+# How to purchase
 
 {% stepper %}
 {% step %}
-### **Go To Our Website!**
+### Visit our website
 
-[Https://dabzpark.com](https://dabzpark.com/)
+[Go to dabzpark.com](https://dabzpark.com/)
 {% endstep %}
 
 {% step %}
-### Select Your Product
+### Choose a game
 
-Select your desired game which you will then have access to 1 or more products.
+Choose the game for the product you want to purchase.
 {% endstep %}
 
 {% step %}
-### Add To Cart
+### Add a product to your cart
 
-Once found your pick, add your product to basket.
+Select a product, then add it to your cart.
 {% endstep %}
 
 {% step %}
-### Checkout Safely
+### Complete your purchase
 
-Simply checkout using our Trusted Payment Processors.
+Enter your payment details through a trusted payment processor.
 {% endstep %}
 
 {% step %}
-### Having Issues?
+### Get help
 
-Feel free to contact us to make sure that you can receive your product!
+Contact us if you need help with your order or product delivery.
 {% endstep %}
 {% endstepper %}
 
+### Important notice <a href="#important-notice" id="important-notice"></a>
 
+We never request payment through private messages.
 
-### ⚠️ Important Notice <a href="#important-notice" id="important-notice"></a>
+Use only these official channels:
 
-We will **never** contact you privately to request payment.
+* The official DabzPark website
+* The official <a href="https://discord.gg/imgui" class="button secondary">Discord server</a>
 
-All purchases are handled exclusively through:
+Ignore and report anyone requesting payment through a private message.
 
-* Our official website
-* Our official <a href="https://discord.gg/imgui" class="button secondary">Discord</a>
+### Summary
 
-If someone reaches out to you directly asking for payment, it is **not us.** Please ignore and report them.
+Purchase DabzPark products through the official website only. We never request payment through private messages.
+
+###
