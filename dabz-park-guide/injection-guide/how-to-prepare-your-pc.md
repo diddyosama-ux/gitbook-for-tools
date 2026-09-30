@@ -1,5 +1,6 @@
 ---
 description: How To get Your Cheat Working
+icon: shield-check
 ---
 
 # How To Prepare Your Pc
